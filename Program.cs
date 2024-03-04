@@ -1,4 +1,5 @@
-﻿using System.IO;
+//Written for Subspace Discovery. https://store.steampowered.com/app/1717290/
+using System.IO;
 
 namespace Subspace_Discovery_stf_Extractor
 {
